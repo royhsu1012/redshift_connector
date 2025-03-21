@@ -25,7 +25,7 @@ Before using the Redshift Connector, you need to download two required files:
 
 ### **Setting Up the Files:**
 
-1. Download the above files and place them in a directory on your system (e.g., `C:\Users\royhs_hsu\Desktop\redshift-jdbc42\`).
+1. Download the above files and place them in a directory on your system (e.g., `C:\Users\redshift-jdbc42\`).
    
 2. After downloading, use the file paths as input parameters when running the Redshift Connector.
 
